@@ -54,7 +54,7 @@
 ### 1. リポジトリのクローン
 
 ```bash
-cd es_analyzer
+git clone https://github.com/neodesafiador/es_ai_analyzer.git
 ```
 
 ### 2. バックエンドのセットアップ
